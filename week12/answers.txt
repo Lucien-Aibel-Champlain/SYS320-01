@@ -1,0 +1,3 @@
+1. This command will reformat a html file, recovering if it fails part way through, without printing any errors.
+
+2. This command will query an xml document for something that matches template XPATH expression and return a copy of that element, including all of its children.
